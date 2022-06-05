@@ -1,0 +1,14 @@
+{
+  "name": "exercicio_graphql_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^16.5.0"
+  }
+}
